@@ -1,0 +1,1 @@
+{ "name": "usage-footer", "version": "0.4.0", "description": "Wyśrodkowany pasek nad promptem: kontekst, limit 5h, tydzień, cache, przycisk compact", "types": "./types/index.d.ts" }
